@@ -3,7 +3,7 @@ Pulsar Reporting UI
 
 Pulsar Reporting UI is a complete solution to visualize reports that renders visualizations of your events and traffic in real-time.
 
-Pulsar Reporting UI is built on AngularJS, allows developers tocreate Pulsar visualization:
+Pulsar Reporting UI is built on AngularJS, allows developers to create Pulsar visualizations in different ways.
 
 - Time bound and Real-time visualizations
 - Dimension vs. Metric visualizations
